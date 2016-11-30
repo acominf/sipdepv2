@@ -1,0 +1,83 @@
+.Pie
+{
+	background-color: #0F355A;
+	color: white;
+	font-weight: bolder;
+}
+
+.encabezado
+{
+	background-color: #0F355A;
+	color: white;
+}
+
+#textoenca
+{
+	font-weight: bold;
+	align-content: center;
+}
+
+#textopie
+{
+	align: center;
+}
+
+#titulo
+{
+	font-size: 250%;
+	font-weight: bold;
+}
+
+#nombre
+{
+	font-size: 150%;
+	font-weight: bold;
+}
+
+#logo
+{
+	margin-top: -8px;
+}
+
+.textinfo
+{
+	color: white;
+	border: 5px solid #2E6092;
+	background-color: #0F355A;
+}
+
+#link
+{
+	color: white;
+}
+
+#link:hover
+{
+	text-transform: uppercase;
+	font-weight: bolder;
+}
+
+#imagen
+{
+	width: 300px;
+	height: 200px;
+}
+
+#cuadroimg
+{
+	border: 5px solid #2E6092;
+	width: 300px;
+	height: 200px;
+}
+
+#imagen2
+{
+	width: 200px;
+	height: 200px;
+}
+
+#imagen3
+{
+	width: 400px;
+	height: 200px;
+}
